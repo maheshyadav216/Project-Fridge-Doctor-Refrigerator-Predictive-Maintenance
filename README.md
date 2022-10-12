@@ -7,17 +7,17 @@ Hackster Contest - Smarter Sustainable World Challenge with Nordic Semiconductor
 A machine learning approach to predict a refrigerator failure allowing its predictive maintenance  
 
 
-Hardware  
-- **Nordic Thingy:53 - Multi-sensor prototyping platform for wireless IoT and embedded machine learning**  
-- **On-Board Sensors of Thingy:53 - Temperature, Humidity, Light, Accelerometer and Gyroscope etc.**  
+**Hardware**  
+- Nordic Thingy:53 - Multi-sensor prototyping platform for wireless IoT and embedded machine learning  
+- On-Board Sensors of Thingy:53 - Temperature, Humidity, Light, Accelerometer and Gyroscope etc.  
 </br>
 
 <img src="/Images/nordic_thingy53.png" height="250" >  
 
-Software
-- **nRF Connect SDK - V.2.1.0**  
-- **Microsoft VSCode Editor**
-- **Edge Impulse Studio**  
+###### Software  
+- nRF Connect SDK - V.2.1.0  
+- Microsoft VSCode Editor
+- Edge Impulse Studio  
 
 
 ------------------------------------------------------------------------------------------------------
