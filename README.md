@@ -14,7 +14,7 @@ A machine learning approach to predict a refrigerator failure allowing its predi
 
 <img src="/Images/nordic_thingy53.png" height="250" >  
 
-###### Software  
+## Software  
 - nRF Connect SDK - V.2.1.0  
 - Microsoft VSCode Editor
 - Edge Impulse Studio  
