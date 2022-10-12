@@ -1,5 +1,5 @@
 # Project-Fridge-Doctor-Refrigerator-Predictive-Maintenance
-Hackster Contest - Smarter Sustainable World Challenge with Nordic Semiconductor  
+*Hackster Contest - Smarter Sustainable World Challenge with Nordic Semiconductor*  
   
 <img src="/Images/Smart-Sustainable-cover.png" height="250" >
   
@@ -7,14 +7,14 @@ Hackster Contest - Smarter Sustainable World Challenge with Nordic Semiconductor
 A machine learning approach to predict a refrigerator failure allowing its predictive maintenance  
 
 
-**Hardware**  
+#### 🛠 Hardware  
 - Nordic Thingy:53 - Multi-sensor prototyping platform for wireless IoT and embedded machine learning  
 - On-Board Sensors of Thingy:53 - Temperature, Humidity, Light, Accelerometer and Gyroscope etc.  
 </br>
 
 <img src="/Images/nordic_thingy53.png" height="250" >  
 
-#### Software  
+#### 💻 Software  
 - nRF Connect SDK - V.2.1.0  
 - Microsoft VSCode Editor
 - Edge Impulse Studio  
