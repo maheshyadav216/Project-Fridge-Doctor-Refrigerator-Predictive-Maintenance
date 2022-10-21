@@ -18,24 +18,27 @@ A machine learning approach to predict a refrigerator failure allowing its predi
 - nRF Connect SDK - V.2.1.0  
 - Microsoft VSCode Editor
 - Edge Impulse Studio  
+</br>
 
+#### 📜 Hackster Project  
+🔗 https://www.hackster.io/maheshyadav2162/fridge-doctor-refrigerator-predictive-maintenance-fc34b9  
 
 ------------------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Link**  
 
-▶️ Project-Fridge-Doctor-Refrigerator-Predictive-Maintenance - 🔗 https://youtu.be/  
+▶️ Project-Fridge-Doctor-Refrigerator-Predictive-Maintenance - 🔗 https://www.youtube.com/watch?v=ufDjCiCd-vc  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
-https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-53  
+🔗 https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-53  
 
-https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/ug_thingy53.html#ug-thingy53  
+🔗 https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/nrf/ug_thingy53.html#ug-thingy53  
 
-https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/nordic-semi-thingy53  
+🔗 https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/nordic-semi-thingy53  
 
-https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/  
+🔗 https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/  
 
 ------------------------------------------------------------------------------------------  
 
